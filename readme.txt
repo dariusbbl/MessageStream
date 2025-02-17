@@ -1,4 +1,4 @@
-Pentru realizarea temei, m-am folosit de 3 fisiere sursa: server.cpp, subscriber.cpp si helpers.h
+Pentru realizarea proiectului, m-am folosit de 3 fisiere sursa: server.cpp, subscriber.cpp si helpers.h
 
 server.cpp:
     Codul acestui fisier reprezinta sursa pentru serverul de retea ce gestioneaza conexiuni TCP si UDP 
